@@ -1,23 +1,28 @@
+1. 
 nama: burung pipit
 nama ilmiah: Estrildidae
 jenis: omnivora
 habitat: sawah, hutan rimba, maupun perkebunan.
 
+2
 nama: ayam
 nama ilmiah: Gallus gallus domesticus
 jenis: omnivora
 habitat: tanah semak tropis dan hutan
 
+3
 nama: merpati
 nama ilmiah: Columba livia
 jenis: omnivora
 habitat: hutan, perkotaan, pedesaan
 
+4
 nama: elang
 nama ilmiah: aliaeetus pelagicus
 jenis: omnivora
 habitat: hutan hujan tropis
 
+5
 nama: penguin
 nama ilmiah: Spheniscidae
 jenis: hewan air
